@@ -139,7 +139,7 @@ var NAVTREEINDEX =
 "cpp/iterator/distance.html",
 "cpp/thread/lock.html",
 "d1/d83/classuint256__t.html#acefecc3b1a4044f2be5ab46eea0099bf",
-"d3/d40/graph__coloring_8cpp.html#gae66f6b31b5ad750f1fe042a706a4e3d4",
+"d3/d40/graph__coloring_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
 "d4/d9c/primes__up__to__billion_8cpp.html#a031cada84819ed6426f58e4f7e81261c",
 "d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html#a688b7ea064739ea9fa66bf64bf4ae631",
 "d7/d35/matrix__exponentiation_8cpp.html#a35b7c98af53ad2ec18658679ad7d43de",
@@ -147,8 +147,8 @@ var NAVTREEINDEX =
 "d9/dae/classdata__structures_1_1_bitset.html#ae86688cf99b77342deedb75149573e73",
 "db/d07/spiral__print_8cpp.html#acfff36db81326fb990a643ab198ee8a5",
 "dc/d5a/rat__maze_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
-"dd/d95/classdata__structures_1_1_segment_tree.html#a10ffa5fc03c66170f0bc2592b843baa3",
-"df/d34/classprobability_1_1windowed__median_1_1_windowed_median.html#aafda847b152684578dab891e5268d750"
+"dd/d91/class_fenwick_tree.html#aaddab1f03d4941212a82cc647b1adb17",
+"df/d34/classprobability_1_1windowed__median_1_1_windowed_median.html#a825a7aaef844c9f743a27b268e8569b2"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
