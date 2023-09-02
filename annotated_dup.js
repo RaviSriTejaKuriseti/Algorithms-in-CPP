@@ -27,6 +27,9 @@ var annotated_dup =
       [ "stack_using_queue", null, [
         [ "Stack", "db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html", "db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack" ]
       ] ],
+      [ "treap", null, [
+        [ "Treap", "d5/d95/structdata__structures_1_1treap_1_1_treap.html", "d5/d95/structdata__structures_1_1treap_1_1_treap" ]
+      ] ],
       [ "tree_234", null, [
         [ "Node", "dd/d40/classdata__structures_1_1tree__234_1_1_node.html", "dd/d40/classdata__structures_1_1tree__234_1_1_node" ],
         [ "Tree234", "d3/d95/classdata__structures_1_1tree__234_1_1_tree234.html", "d3/d95/classdata__structures_1_1tree__234_1_1_tree234" ]
@@ -66,6 +69,11 @@ var annotated_dup =
       [ "HKGraph", "d8/d69/classgraph_1_1_h_k_graph.html", "d8/d69/classgraph_1_1_h_k_graph" ],
       [ "LowestCommonAncestor", "d9/d23/classgraph_1_1_lowest_common_ancestor.html", "d9/d23/classgraph_1_1_lowest_common_ancestor" ],
       [ "RootedTree", "d0/d58/classgraph_1_1_rooted_tree.html", "d0/d58/classgraph_1_1_rooted_tree" ]
+    ] ],
+    [ "greedy_algorithms", "d2/d90/namespacegreedy__algorithms.html", [
+      [ "dijkstra", null, [
+        [ "Graph", "d2/daa/classgreedy__algorithms_1_1dijkstra_1_1_graph.html", "d2/daa/classgreedy__algorithms_1_1dijkstra_1_1_graph" ]
+      ] ]
     ] ],
     [ "hashing", "d6/d0c/namespacehashing.html", [
       [ "sha256", null, [
@@ -145,6 +153,7 @@ var annotated_dup =
         [ "SG", "d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g.html", "d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g" ],
         [ "Tree", "d1/d51/classrange__queries_1_1heavy__light__decomposition_1_1_tree.html", "d1/d51/classrange__queries_1_1heavy__light__decomposition_1_1_tree" ]
       ] ],
+      [ "fenwick_tree", "de/d0d/classrange__queries_1_1fenwick__tree.html", "de/d0d/classrange__queries_1_1fenwick__tree" ],
       [ "perSegTree", "d8/d28/classrange__queries_1_1per_seg_tree.html", "d8/d28/classrange__queries_1_1per_seg_tree" ]
     ] ],
     [ "search", "d9/dca/namespacesearch.html", [
@@ -181,7 +190,6 @@ var annotated_dup =
     [ "EasterYearMonthDay", "d1/df6/class_easter_year_month_day.html", "d1/df6/class_easter_year_month_day" ],
     [ "Edge", "d7/d77/class_edge.html", "d7/d77/class_edge" ],
     [ "FCFS", "dd/dca/class_f_c_f_s.html", "dd/dca/class_f_c_f_s" ],
-    [ "FenwickTree", "dd/d91/class_fenwick_tree.html", "dd/d91/class_fenwick_tree" ],
     [ "Graph", "da/d9a/class_graph.html", "da/d9a/class_graph" ],
     [ "hash_chain", "dd/d1c/classhash__chain.html", "dd/d1c/classhash__chain" ],
     [ "Item", "db/d66/struct_item.html", null ],
@@ -196,8 +204,8 @@ var annotated_dup =
     [ "Node", "db/d8b/struct_node.html", null ],
     [ "Point", "d8/dc8/struct_point.html", "d8/dc8/struct_point" ],
     [ "query", "dd/d1b/structquery.html", null ],
-    [ "queue", "db/da9/classqueue.html", "db/da9/classqueue" ],
     [ "Queue", "dc/db5/struct_queue.html", null ],
+    [ "queue", "db/da9/classqueue.html", "db/da9/classqueue" ],
     [ "RBtree", "d8/d72/class_r_btree.html", null ],
     [ "SegmentIntersection", "d4/db4/struct_segment_intersection.html", "d4/db4/struct_segment_intersection" ],
     [ "Solution", "dd/d4f/class_solution.html", null ],

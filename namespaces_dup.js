@@ -44,7 +44,7 @@ var namespaces_dup =
     [ "gram_schmidt", "d4/d0f/namespacegram__schmidt.html", null ],
     [ "graph", "df/dce/namespacegraph.html", "df/dce/namespacegraph" ],
     [ "graph_coloring", "d7/d08/namespacegraph__coloring.html", null ],
-    [ "greedy_algorithms", "d2/d90/namespacegreedy__algorithms.html", null ],
+    [ "greedy_algorithms", "d2/d90/namespacegreedy__algorithms.html", "d2/d90/namespacegreedy__algorithms" ],
     [ "ground_to_ground_projectile_motion", "d0/d20/namespaceground__to__ground__projectile__motion.html", null ],
     [ "hamming_distance", "d4/d1c/namespacehamming__distance.html", null ],
     [ "hashing", "d6/d0c/namespacehashing.html", null ],
