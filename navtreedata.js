@@ -102,8 +102,8 @@ var NAVTREE =
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
-        [ "All", "namespacemembers.html", null ],
-        [ "Functions", "namespacemembers_func.html", null ],
+        [ "All", "namespacemembers.html", "namespacemembers_dup" ],
+        [ "Functions", "namespacemembers_func.html", "namespacemembers_func" ],
         [ "Variables", "namespacemembers_vars.html", null ],
         [ "Typedefs", "namespacemembers_type.html", null ]
       ] ]
@@ -137,20 +137,21 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"cpp/iterator/inserter.html",
-"cpp/utility/forward.html",
-"d1/d83/classuint256__t.html#ad9ce2370b1497efbcc426793048e1f78",
-"d3/d40/graph__coloring_8cpp.html",
-"d4/d90/classdata__structures_1_1_skip_list.html#a7ffc3688725b9d1ec6e5bb881a6e2ae4",
-"d5/d96/md5_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
-"d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md33",
-"d8/d77/namespacemachine__learning.html#af801bf30591ca6b2c38ff4fed0ded23f",
-"d9/d49/structdata__structures_1_1_node.html#ac75aa86a598357c5c882ec6a1174aa68",
-"da/d9a/class_graph.html#ac85c63bcca4764a621f9f8609a8e5910",
-"db/dbc/tree__234_8cpp.html#ae7880ce913f3058a35ff106d5be9e243",
-"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a8417d01c88b99ca56289843509fb71f9",
-"de/d9d/classdata__structures_1_1linked__list_1_1link.html#aba4672fbc40c38962d1510b843a577bb",
-"functions_func_h.html"
+"cpp/iterator/distance.html",
+"cpp/thread/lock.html",
+"d1/d83/classuint256__t.html#aa4cf08fa6a33f17594b5a842866f39a1",
+"d2/dc8/classdata__structures_1_1_stack.html#ac46842bdd9c655d84f865fa3a03da19b",
+"d4/d48/hamming__distance_8cpp.html#a65d845df3fecff7087a2126c7b72030b",
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md68",
+"d6/d60/group__ode.html#ga827bf009831ddc477c5fa8891d5cb35f",
+"d8/d28/classrange__queries_1_1per_seg_tree.html#a6d3f2465a7c5803a1ff16c5378bcc5e4",
+"d8/dee/avltree_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"da/d24/sqrt__double_8cpp.html#ae662282ad0740d2063ac404ca3bd74fc",
+"db/d82/classlarge__number.html#a771e9b28cfddf1ad94668566e396e350",
+"dc/dc5/paranthesis__matching_8cpp.html#ade525d33459755a32ba21e1b6910ff21",
+"dd/da8/pigeonhole__sort_8cpp.html",
+"df/d47/fcfs__scheduling_8cpp.html#a8f2b90cb64d63a7080965e66a05ccf86",
+"namespacemembers_func_z.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
