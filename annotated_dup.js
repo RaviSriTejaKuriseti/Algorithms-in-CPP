@@ -39,8 +39,8 @@ var annotated_dup =
       ] ],
       [ "Bitset", "d9/dae/classdata__structures_1_1_bitset.html", "d9/dae/classdata__structures_1_1_bitset" ],
       [ "BloomFilter", "dc/dd4/classdata__structures_1_1_bloom_filter.html", "dc/dd4/classdata__structures_1_1_bloom_filter" ],
-      [ "SegmentTree", "dd/d95/classdata__structures_1_1_segment_tree.html", "dd/d95/classdata__structures_1_1_segment_tree" ],
       [ "Node", "d9/d49/structdata__structures_1_1_node.html", "d9/d49/structdata__structures_1_1_node" ],
+      [ "SegmentTree", "dd/d95/classdata__structures_1_1_segment_tree.html", "dd/d95/classdata__structures_1_1_segment_tree" ],
       [ "SkipList", "d4/d90/classdata__structures_1_1_skip_list.html", "d4/d90/classdata__structures_1_1_skip_list" ],
       [ "Stack", "d2/dc8/classdata__structures_1_1_stack.html", "d2/dc8/classdata__structures_1_1_stack" ],
       [ "trie", "d0/d3e/classdata__structures_1_1trie.html", "d0/d3e/classdata__structures_1_1trie" ]
@@ -71,8 +71,8 @@ var annotated_dup =
       ] ],
       [ "Graph", "dc/d61/classgraph_1_1_graph.html", "dc/d61/classgraph_1_1_graph" ],
       [ "HKGraph", "d8/d69/classgraph_1_1_h_k_graph.html", "d8/d69/classgraph_1_1_h_k_graph" ],
-      [ "RootedTree", "d0/d58/classgraph_1_1_rooted_tree.html", "d0/d58/classgraph_1_1_rooted_tree" ],
-      [ "LowestCommonAncestor", "d9/d23/classgraph_1_1_lowest_common_ancestor.html", "d9/d23/classgraph_1_1_lowest_common_ancestor" ]
+      [ "LowestCommonAncestor", "d9/d23/classgraph_1_1_lowest_common_ancestor.html", "d9/d23/classgraph_1_1_lowest_common_ancestor" ],
+      [ "RootedTree", "d0/d58/classgraph_1_1_rooted_tree.html", "d0/d58/classgraph_1_1_rooted_tree" ]
     ] ],
     [ "greedy_algorithms", "d2/d90/namespacegreedy__algorithms.html", [
       [ "dijkstra", "d2/d2f/namespacegreedy__algorithms_1_1dijkstra.html", [
@@ -127,14 +127,14 @@ var annotated_dup =
       ] ]
     ] ],
     [ "others", "d0/d6f/namespaceothers.html", [
-      [ "iterative_tree_traversals", null, [
-        [ "Node", "d2/d9a/structothers_1_1iterative__tree__traversals_1_1_node.html", "d2/d9a/structothers_1_1iterative__tree__traversals_1_1_node" ],
-        [ "BinaryTree", "d9/d12/classothers_1_1iterative__tree__traversals_1_1_binary_tree.html", "d9/d12/classothers_1_1iterative__tree__traversals_1_1_binary_tree" ]
-      ] ],
       [ "Cache", "db/dde/namespaceothers_1_1_cache.html", [
         [ "D_Node", "de/d21/classothers_1_1_cache_1_1_d___node.html", "de/d21/classothers_1_1_cache_1_1_d___node" ],
         [ "LFUCache", "df/d8f/classothers_1_1_cache_1_1_l_f_u_cache.html", "df/d8f/classothers_1_1_cache_1_1_l_f_u_cache" ],
         [ "LRUCache", "d8/d2e/classothers_1_1_cache_1_1_l_r_u_cache.html", "d8/d2e/classothers_1_1_cache_1_1_l_r_u_cache" ]
+      ] ],
+      [ "iterative_tree_traversals", null, [
+        [ "Node", "d2/d9a/structothers_1_1iterative__tree__traversals_1_1_node.html", "d2/d9a/structothers_1_1iterative__tree__traversals_1_1_node" ],
+        [ "BinaryTree", "d9/d12/classothers_1_1iterative__tree__traversals_1_1_binary_tree.html", "d9/d12/classothers_1_1iterative__tree__traversals_1_1_binary_tree" ]
       ] ],
       [ "lru_cache", null, [
         [ "LRUCache", "d6/dae/classothers_1_1lru__cache_1_1_l_r_u_cache.html", "d6/dae/classothers_1_1lru__cache_1_1_l_r_u_cache" ]
@@ -172,14 +172,6 @@ var annotated_dup =
     [ "statistics", "d2/dcf/namespacestatistics.html", [
       [ "stats_computer1", "d7/d7c/classstatistics_1_1stats__computer1.html", "d7/d7c/classstatistics_1_1stats__computer1" ],
       [ "stats_computer2", "d8/dab/classstatistics_1_1stats__computer2.html", "d8/dab/classstatistics_1_1stats__computer2" ]
-    ] ],
-    [ "std", null, [
-      [ "is_integral&lt; uint128_t &gt;", "d2/dd4/structstd_1_1is__integral_3_01uint128__t_01_4.html", null ],
-      [ "is_arithmetic&lt; uint128_t &gt;", "d2/dfc/structstd_1_1is__arithmetic_3_01uint128__t_01_4.html", null ],
-      [ "is_unsigned&lt; uint128_t &gt;", "d5/d25/structstd_1_1is__unsigned_3_01uint128__t_01_4.html", null ],
-      [ "is_integral&lt; uint256_t &gt;", "d7/d47/structstd_1_1is__integral_3_01uint256__t_01_4.html", null ],
-      [ "is_arithmetic&lt; uint256_t &gt;", "dc/d6d/structstd_1_1is__arithmetic_3_01uint256__t_01_4.html", null ],
-      [ "is_unsigned&lt; uint256_t &gt;", "df/d99/structstd_1_1is__unsigned_3_01uint256__t_01_4.html", null ]
     ] ],
     [ "strings", "df/dcb/namespacestrings.html", [
       [ "boyer_moore", "d0/dbc/namespacestrings_1_1boyer__moore.html", [
